@@ -1,4 +1,8 @@
 hey hi guys !sucessfully i do it to github!
 Dum dum sahura
+<<<<<<< Updated upstream
 cr7
 gsgkdklbk
+=======
+fsfhskgjslksjh
+>>>>>>> Stashed changes
